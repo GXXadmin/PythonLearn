@@ -24,7 +24,6 @@ def print_hi(name):
     print(type(paragraph))
     print(type(sentence))
     print(type(word))
-    print(1111)
 
 if __name__ == '__main__':
     print_hi('PyCharm')
