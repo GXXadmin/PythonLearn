@@ -7,13 +7,14 @@ def print_hi(name):
     print(a, b)
     print(a is b)
     if True:
-        print("neo")
+        print("one")
     else:
         print("smile")
     total = 'item_one' + \
             'item_two' + \
             'item_three'
     print(total)
+    # TODO 
     word = 'word'
     sentence = "This is a sentence."
     paragraph = """This is a paragraph. It is
